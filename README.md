@@ -34,6 +34,8 @@ This repository contains a Python script to extract information about articles r
 ## Automated Daily Job
 - Implemented a daily automated job that updates the visualization of the number of articles about Justin Trudeau over time.
 - Created an output suitable for recipients who have not previously seen the data.
+![Email_subscription_outlook_1](https://github.com/Laleeth/holidaycheck/assets/14369362/095550ae-9b0a-4c22-8fb2-1185a270d3d9)
+
 
 For more information and detailed implementation, refer to the code files in this repository.
 
